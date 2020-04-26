@@ -1,0 +1,29 @@
+{
+  "name": "BitcoinPrice-Next.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arghun-dev/BitcoinPrice-Next.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arghun-dev/BitcoinPrice-Next.js/issues"
+  },
+  "homepage": "https://github.com/Arghun-dev/BitcoinPrice-Next.js#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.3.5",
+    "node-sass": "^4.14.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
