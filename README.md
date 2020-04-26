@@ -7,3 +7,8 @@ npm install isomorphic-unfetch
 ```
 
 this is a package which allow us to fetch api in client and the server
+
+
+```
+https://bitcoin-price-next-js.now.sh/
+```
